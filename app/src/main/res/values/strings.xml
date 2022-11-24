@@ -1,0 +1,10 @@
+<resources>
+    <string name="app_name">ProyectoFinal</string>
+    <!-- TODO: Remove or change this placeholder text -->
+    <string name="hello_blank_fragment">Hello blank fragment</string>
+    <string name="animalImg">imagen del animal descrito</string>
+    <string name="femenino">Hembra</string>
+    <string name="masculino">Macho</string>
+    <string name="sn">Sin asignar</string>
+    <string name="peso">Peso %1$s kg</string>
+</resources>
